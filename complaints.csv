@@ -1,0 +1,45 @@
+role,subject,product,price,division,district,area,timestamp,status,details
+Consumer,Meena Bazar,Onion,165.0,Dhaka,Dhaka,Dhanmondi,2025-08-28 20:00:00.000000,Action Taken,The price was listed as 150 but they charged 165 at the counter. Authority was notified.
+Retailer,Karwan Bazar Wholesaler,Potato,35.0,Dhaka,Dhaka,Karwan Bazar,2025-09-01 06:00:00.000000,Investigation in Progress,"The wholesaler is forcing us to buy at a very high rate, not providing proper receipts."
+Consumer,Rahim Store,Rice,85.0,Khulna,Khulna,Sonadanga,2025-09-15 08:00:00.000000,Pending Review,Selling rice packets above the MRP.
+Farmer,Unnamed Middleman,Mango,50.0,Rajshahi,Rajshahi,Paba,2025-07-20 17:00:00.000000,Action Taken,A middleman is blocking direct access to the market. Matter resolved with local admin.
+Consumer,Ali's Shop,Potato,50.0,Chattogram,Cumilla,Muradnagar,2025-09-14 19:00:00.000000,Actionable,Refused to sell potatoes unless we bought 5kg. Price is too high.
+Consumer,Daily Bazaar,Onion,150.0,Chattogram,Cumilla,Cumilla Sadar,2025-08-25 08:30:00.000000,Investigation in Progress,Price of local onion is almost the same as imported. Seems like price fixing.
+Wholesaler,Transport Syndicate,Mango,0.0,Dhaka,Dhaka,Gazipur Entry Point,2025-07-22 23:00:00.000000,Actionable,"Trucks carrying mangoes from Rajshahi were stopped and forced to pay extra toll, increasing our costs."
+Retailer,Salam Traders,Onion,110.0,Chattogram,Cumilla,Debidwar,2025-08-26 11:00:00.000000,Pending Review,This wholesaler is hoarding onions and not selling to small shops.
+Consumer,Sylhet Town Market Stall,Onion,170.0,Sylhet,Sylhet,Sylhet Sadar,2025-08-27 18:30:00.000000,Action Taken,Mobile court fined the seller for price gouging.
+Farmer,Sherpur Market Committee,Rice,50.0,Mymensingh,Sherpur,,2025-09-15 07:00:00.000000,Pending Review,They are not letting us sell rice at the government-fixed price.
+Consumer,Random Grocery,Potato,48.0,Rangpur,Dinajpur,Dinajpur Sadar,2025-09-14 16:00:00.000000,Pending Review,
+Retailer,Patuakhali Cold Storage,Watermelon,40.0,Barishal,Patuakhali,,2025-07-25 09:00:00.000000,Actionable,They are creating an artificial shortage by not releasing watermelons from storage.
+Consumer,Bogura Market,Potato,45.0,Rajshahi,Bogura,Bogura Sadar,2025-09-15 09:12:00.000000,Actionable,Potatoes are being sold at a very high price.
+Wholesaler,Ferry Ghat extortion,Onion,0.0,Dhaka,Manikganj,Paturia,2025-08-29 22:45:00.000000,Investigation in Progress,Extortion at the ferry terminal is adding cost to every truck of onions coming from the west.
+Consumer,Local Market Stall,Mango,230.0,Barishal,Barishal,,2025-08-15 19:00:00.000000,Dismissed as False,"User complaint was found to be a personal dispute, not a market issue."
+Retailer,Noakhali Distributor,Potato,35.0,Chattogram,Noakhali,Maijdee,2025-09-14 09:30:00.000000,Pending Review,Distributor is not supplying enough stock to keep prices stable.
+Farmer,Bhairab Syndicate,Onion,60.0,Dhaka,Kishoreganj,Bhairab,2025-08-24 16:20:00.000000,Actionable,A local syndicate is forcing us to sell all our onions to them at a fixed low rate.
+Consumer,Kacha Bazar,Onion,160.0,Rangpur,Rangpur,Rangpur Sadar,2025-08-28 08:40:00.000000,Pending Review,
+Wholesaler,Bogura Cold Storage,Potato,20.0,Rajshahi,Bogura,,2025-08-01 11:00:00.000000,Action Taken,"Investigation completed, storage owner warned."
+Consumer,Super Shop,Soybean Oil,195.0,Sylhet,Sylhet,,2025-09-02 17:50:00.000000,Dismissed as False,"Product was a premium import, price was justified."
+Retailer,CTG Port Agent,Soybean Oil,0.0,Chattogram,Chattogram,Port Area,2025-08-20 14:00:00.000000,Investigation in Progress,Delay in releasing imported oil from the port is causing market instability.
+Consumer,Fruit Vendor,Mango,240.0,Mymensingh,Mymensingh,,2025-08-18 12:35:00.000000,Actionable,Extremely high price for end-of-season mangoes.
+Farmer,Pesticide Seller,Rice,0.0,Khulna,Jashore,,2025-07-30 15:00:00.000000,Pending Review,"Selling low-quality pesticides which damaged the crop, leading to lower supply."
+Consumer,Online Grocery Page,Potato,60.0,Dhaka,Dhaka,Online,2025-09-14 11:10:00.000000,Actionable,"Charged 60 Taka/kg for potatoes online, which is much higher than any physical market."
+Wholesaler,Sirajganj Bridge Toll,All,0.0,Rajshahi,Sirajganj,Bangabandhu Bridge,2025-09-12 01:00:00.000000,Investigation in Progress,Excessive and unofficial tolls being charged for all goods trucks.
+Consumer,Narayanganj Market,Onion,155.0,Dhaka,Narayanganj,Sadar,2025-08-27 09:18:00.000000,Action Taken,Market committee intervened and stabilized the price.
+Consumer,Brahmanbaria Bazar,Rice,82.0,Chattogram,Brahmanbaria,,2025-09-13 13:00:00.000000,Actionable,Mixing old rice with new and selling at a high price.
+Farmer,Local Money Lender,Potato,15.0,Rangpur,Gaibandha,Saghata,2025-08-05 10:00:00.000000,Actionable,Forcing us to sell our produce to him to repay loans at a rate far below market value.
+Retailer,Madaripur Arath,Onion,100.0,Dhaka,Madaripur,Sadar,2025-08-26 08:00:00.000000,Pending Review,The quality of onion supplied is very poor but price is high.
+Consumer,Khulna New Market,Watermelon,68.0,Khulna,Khulna,New Market Area,2025-09-15 11:00:00.000000,Investigation in Progress,Seller is not using proper weight scales.
+Farmer,Naogaon Rice Mill,Rice,50.0,Rajshahi,Naogaon,Sadar,2025-07-28 16:00:00.000000,Pending Review,Rice mill is delaying payment for our paddy.
+Consumer,Patuakhali Fish Market,Onion,120.0,Barishal,Patuakhali,,2025-09-05 07:30:00.000000,Actionable,This is not even a primary vegetable shop but they are selling onions at an insane price.
+Consumer,Agarwal Sweets,Potato,5.0,Chattogram,Chattogram,Station Road,2025-09-01 19:00:00.000000,Dismissed as False,"Complaint about price of a single Shingara, not raw potato. Invalid."
+Retailer,Gabtoli Entry Point,All,0.0,Dhaka,Dhaka,Gabtoli,2025-09-03 02:00:00.000000,Investigation in Progress,Illegal 'line money' being charged for trucks to enter the city.
+Consumer,Local Shop,Soybean Oil,192.0,Mymensingh,Mymensingh,Sadar,2025-09-10 14:00:00.000000,Actionable,Selling soybean oil without a price tag on the bottle.
+Farmer,Pabna Onion Syndicate,Onion,40.0,Rajshahi,Pabna,Sadar,2025-08-19 12:00:00.000000,Actionable,Syndicate leaders are forcing all farmers in the area to sell to them only.
+Consumer,Online Food Delivery,Onion,200.0,Dhaka,Dhaka,Online,2025-08-29 13:00:00.000000,Dismissed as False,"Price is for a special imported onion variety, which was stated on the website."
+Wholesaler,Comilla Wholesaler,Potato,28.0,Chattogram,Cumilla,Sadar,2025-09-05 05:00:00.000000,Pending Review,Receiving underweight sacks of potatoes from the main distributor.
+Consumer,Barishal Bazar,Rice,80.0,Barishal,Barishal,Sadar,2025-09-11 10:20:00.000000,Actionable,Shopkeeper is selling lower grade rice in premium grade packaging.
+Farmer,Rangpur Cold Storage Union,Potato,0.0,Rangpur,Rangpur,Sadar,2025-08-10 11:30:00.000000,Investigation in Progress,The cold storage association has collectively decided not to release potatoes to create a price hike.
+Consumer,Grocery Store,Soybean Oil,185.0,Rajshahi,Sirajganj,Sadar,2025-09-08 17:00:00.000000,Pending Review,
+Retailer,Khatunganj Trader,Soybean Oil,175.0,Chattogram,Chattogram,Khatunganj,2025-09-06 09:00:00.000000,Action Taken,Trader was fined for not displaying the price chart.
+Consumer,Local Market,Mango,250.0,Dhaka,Dhaka,Uttara,2025-08-20 19:00:00.000000,Actionable,Selling chemically ripened mangoes that are harmful.
+Consumer,,Watermelon,300.0,Dhaka,Narayanganj,,2025-09-15 16:59:41.436392,Pending Review,

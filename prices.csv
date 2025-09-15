@@ -1,0 +1,132 @@
+role,product,price,unit,division,district,area,timestamp,status
+Farmer,Mango,73.5,Kg,Rajshahi,Chapainawabganj,Shibganj,2025-07-17 08:30:00.000000,Verified
+Wholesaler,Mango,105.84,Kg,Dhaka,Dhaka,Karwan Bazar,2025-07-18 04:00:00.000000,Verified
+Retailer,Mango,159.6,Kg,Dhaka,Dhaka,Gulshan,2025-07-19 10:00:00.000000,Verified
+Consumer,Mango,168.3,Kg,Dhaka,Dhaka,Banani,2025-07-20 09:00:00.000000,Verified
+Farmer,Potato,21.6,Kg,Rangpur,Rangpur,Mithapukur,2025-07-21 11:00:00.000000,Verified
+Wholesaler,Potato,29.4,Kg,Dhaka,Dhaka,Kawran Bazar,2025-07-22 19:00:00.000000,Verified
+Retailer,Potato,45.36,Kg,Dhaka,Narayanganj,Narayanganj Sadar,2025-07-23 07:00:00.000000,Verified
+Consumer,Potato,49.5,Kg,Dhaka,Narayanganj,Fatullah,2025-07-24 08:45:00.000000,Verified
+Farmer,Onion,48.15,Kg,Rajshahi,Pabna,Santhia,2025-07-25 14:00:00.000000,Verified
+Wholesaler,Onion,65.52,Kg,Dhaka,Dhaka,Shyambazar,2025-07-26 05:00:00.000000,Verified
+Retailer,Onion,97.02,Kg,Chattogram,Chattogram,Pahartali,2025-07-27 16:00:00.000000,Under Verification
+Retailer,Onion,103.95,Kg,Sylhet,Sylhet,Sylhet Sadar,2025-07-28 18:00:00.000000,Rumor
+Consumer,Onion,91.8,Kg,Dhaka,Dhaka,Mirpur,2025-07-29 08:10:00.000000,Verified
+Farmer,Rice,55.0,Kg,Mymensingh,Mymensingh,Phulpur,2025-07-30 09:00:00.000000,Under Verification
+Wholesaler,Rice,62.0,Kg,Mymensingh,Jamalpur,Jamalpur Sadar,2025-07-31 15:00:00.000000,Under Verification
+Retailer,Rice,70.0,Kg,Dhaka,Gazipur,Tongi,2025-08-01 08:00:00.000000,Under Verification
+Farmer,Watermelon,32.1,Kg,Khulna,Khulna,Dumuria,2025-08-02 12:00:00.000000,Verified
+Retailer,Watermelon,59.95,Kg,Khulna,Jashore,Jashore Sadar,2025-08-03 16:00:00.000000,Verified
+Farmer,Potato,880.0,Maund,Rangpur,Dinajpur,Birganj,2025-08-04 10:00:00.000000,Verified
+Retailer,Mango,1800.0,Dozen,Barishal,Barishal,Barishal Sadar,2025-08-05 13:00:00.000000,Verified
+Consumer,Onion,95.4,Kg,Rajshahi,Bogura,Bogura Sadar,2025-08-06 09:10:00.000000,Verified
+Farmer,Onion,54.0,Kg,Khulna,Jhenaidah,Kaliganj,2025-08-07 18:00:00.000000,Verified
+Wholesaler,Onion,70.85,Kg,Khulna,Jashore,Benapole,2025-08-08 08:00:00.000000,Verified
+Retailer,Onion,90.2,Kg,Khulna,Satkhira,Satkhira Sadar,2025-08-09 17:00:00.000000,Verified
+Retailer,Potato,40.28,Kg,Sylhet,Sunamganj,,2025-08-10 11:30:00.000000,Verified
+Farmer,Mango,74.2,Kg,Rajshahi,Rajshahi,Puthia,2025-08-11 09:00:00.000000,Verified
+Wholesaler,Mango,109.25,Kg,Dhaka,Dhaka,Karwan Bazar,2025-08-12 04:30:00.000000,Verified
+Retailer,Mango,178.2,Kg,Chattogram,Cumilla,Cumilla Sadar,2025-08-13 08:20:00.000000,Verified
+Farmer,Potato,20.52,Kg,Rangpur,Panchagarh,Debiganj,2025-08-14 12:30:00.000000,Verified
+Retailer,Potato,45.78,Kg,Mymensingh,Sherpur,,2025-08-15 07:45:00.000000,Verified
+Consumer,Onion,131.25,Kg,Sylhet,Sylhet,Zindabazar,2025-08-16 09:05:00.000000,Rumor
+Wholesaler,Rice,2420.0,Maund,Rangpur,Dinajpur,,2025-08-17 14:20:00.000000,Under Verification
+Farmer,Watermelon,29.68,Kg,Barishal,Patuakhali,Kalapara,2025-08-18 11:45:00.000000,Verified
+Retailer,Watermelon,63.6,Kg,Barishal,Barishal,,2025-08-19 18:00:00.000000,Verified
+Farmer,Potato,18.36,Kg,Rajshahi,Joypurhat,Kalai,2025-08-20 10:00:00.000000,Verified
+Wholesaler,Potato,25.92,Kg,Rajshahi,Bogura,Mokamtola,2025-08-21 03:00:00.000000,Verified
+Retailer,Potato,41.73,Kg,Rajshahi,Rajshahi,Shaheb Bazar,2025-08-22 11:00:00.000000,Verified
+Farmer,Onion,50.76,Kg,Dhaka,Faridpur,Bhanga,2025-08-23 15:00:00.000000,Verified
+Wholesaler,Onion,66.34,Kg,Dhaka,Faridpur,Faridpur Sadar,2025-08-24 06:00:00.000000,Verified
+Retailer,Onion,86.4,Kg,Dhaka,Manikganj,,2025-08-25 13:00:00.000000,Verified
+Consumer,Onion,90.72,Kg,Dhaka,Manikganj,Sadar,2025-08-26 09:15:00.000000,Verified
+Farmer,Rice,54.0,Kg,Barishal,Bhola,Char Fasson,2025-08-27 11:00:00.000000,Under Verification
+Wholesaler,Rice,61.0,Kg,Barishal,Barishal,Port Road,2025-08-28 05:00:00.000000,Under Verification
+Retailer,Rice,68.0,Kg,Barishal,Pirojpur,,2025-08-29 12:00:00.000000,Under Verification
+Farmer,Mango,71.4,Kg,Rajshahi,Natore,Baraigram,2025-08-30 09:30:00.000000,Verified
+Wholesaler,Mango,106.4,Kg,Dhaka,Dhaka,Karwan Bazar,2025-08-31 04:15:00.000000,Verified
+Retailer,Mango,164.3,Kg,Sylhet,Sylhet,,2025-09-01 14:00:00.000000,Verified
+Farmer,Potato,19.44,Kg,Rangpur,Thakurgaon,Pirganj,2025-09-02 10:30:00.000000,Verified
+Wholesaler,Potato,28.08,Kg,Dhaka,Dhaka,Kawran Bazar,2025-09-03 04:00:00.000000,Verified
+Retailer,Potato,44.28,Kg,Chattogram,Feni,Feni Sadar,2025-09-04 11:30:00.000000,Verified
+Farmer,Onion,55.12,Kg,Chattogram,Brahmanbaria,Sarail,2025-09-05 16:00:00.000000,Verified
+Wholesaler,Onion,72.76,Kg,Chattogram,Cumilla,Nimshar,2025-09-06 07:00:00.000000,Verified
+Retailer,Onion,91.8,Kg,Chattogram,Noakhali,Maijdee,2025-09-07 15:00:00.000000,Under Verification
+Consumer,Onion,136.5,Kg,Sylhet,Habiganj,Habiganj Sadar,2025-09-08 08:55:00.000000,Rumor
+Farmer,Rice,56.0,Kg,Khulna,Kushtia,Kumarkhali,2025-09-09 10:00:00.000000,Under Verification
+Retailer,Rice,72.0,Kg,Khulna,Khulna,New Market,2025-09-10 13:30:00.000000,Under Verification
+Farmer,Watermelon,33.92,Kg,Khulna,Bagerhat,Fakirhat,2025-09-11 13:00:00.000000,Verified
+Retailer,Watermelon,61.48,Kg,Dhaka,Dhaka,Mirpur,2025-09-12 17:00:00.000000,Verified
+Consumer,Watermelon,69.55,Kg,Dhaka,Dhaka,Dhanmondi,2025-09-13 18:00:00.000000,Verified
+Farmer,Potato,21.6,Kg,Mymensingh,Jamalpur,Melandah,2025-09-14 10:45:00.000000,Verified
+Wholesaler,Potato,30.24,Kg,Mymensingh,Mymensingh,Shombhuganj,2025-09-15 05:30:00.000000,Verified
+Retailer,Potato,47.52,Kg,Mymensingh,Netrokona,,2025-07-16 08:30:00.000000,Verified
+Consumer,Potato,48.6,Kg,Dhaka,Dhaka,Mohakhali,2025-07-17 09:18:00.000000,Verified
+Farmer,Mango,79.5,Kg,Rajshahi,Naogaon,Sapahar,2025-07-18 09:00:00.000000,Verified
+Wholesaler,Mango,115.2,Kg,Dhaka,Dhaka,Jatrabari,2025-07-19 05:00:00.000000,Verified
+Retailer,Mango,185.5,Kg,Chattogram,Chattogram,New Market,2025-07-20 12:00:00.000000,Verified
+Retailer,Onion,93.28,Kg,Rangpur,Gaibandha,,2025-07-21 16:30:00.000000,Verified
+Farmer,Onion,59.4,Kg,Dhaka,Kishoreganj,Bhairab,2025-07-22 13:00:00.000000,Rumor
+Wholesaler,Onion,75.6,Kg,Dhaka,Narsingdi,Madhabdi,2025-07-23 06:00:00.000000,Verified
+Retailer,Onion,95.4,Kg,Dhaka,Narayanganj,,2025-07-24 09:10:00.000000,Verified
+Farmer,Mango,85.32,Kg,Rajshahi,Chapainawabganj,Bholahat,2025-07-15 09:10:00.000000,Verified
+Wholesaler,Mango,121.55,Kg,Dhaka,Dhaka,Karwan Bazar,2025-07-16 03:45:00.000000,Verified
+Retailer,Mango,175.11,Kg,Dhaka,Dhaka,Gulshan,2025-07-16 11:20:00.000000,Verified
+Farmer,Potato,19.87,Kg,Rangpur,Rangpur,Pirgacha,2025-07-15 11:30:00.000000,Verified
+Wholesaler,Potato,27.14,Kg,Dhaka,Dhaka,Shyambazar,2025-07-16 04:10:00.000000,Verified
+Retailer,Potato,40.59,Kg,Chattogram,Chattogram,Chawkbazar,2025-07-16 10:15:00.000000,Under Verification
+Consumer,Potato,45.21,Kg,Dhaka,Dhaka,Mirpur,2025-07-17 18:30:00.000000,Verified
+Farmer,Onion,46.23,Kg,Dhaka,Faridpur,Sadar,2025-07-15 14:00:00.000000,Verified
+Wholesaler,Onion,60.11,Kg,Dhaka,Dhaka,Shyambazar,2025-07-16 05:25:00.000000,Verified
+Retailer,Onion,78.9,Kg,Dhaka,Dhaka,Kawran Bazar,2025-07-16 09:40:00.000000,Verified
+Consumer,Onion,85.0,Kg,Dhaka,Dhaka,Mohammadpur,2025-07-17 19:00:00.000000,Verified
+Farmer,Rice,52.88,Kg,Mymensingh,Mymensingh,Trishal,2025-07-15 10:00:00.000000,Under Verification
+Wholesaler,Rice,60.5,Kg,Dhaka,Dhaka,Badamtoli,2025-07-16 06:00:00.000000,Under Verification
+Retailer,Rice,68.75,Kg,Sylhet,Sylhet,Sadar,2025-07-17 11:50:00.000000,Under Verification
+Farmer,Soybean Oil,145.6,Kg,Chattogram,Chandpur,Haimchar,2025-07-15 12:10:00.000000,Verified
+Wholesaler,Soybean Oil,160.2,Kg,Chattogram,Chattogram,Khatunganj,2025-07-16 07:00:00.000000,Under Verification
+Retailer,Soybean Oil,175.8,Kg,Dhaka,Dhaka,New Market,2025-07-16 13:00:00.000000,Verified
+Consumer,Soybean Oil,178.0,Kg,Dhaka,Dhaka,Badda,2025-07-17 20:00:00.000000,Verified
+Farmer,Onion,65.3,Kg,Rajshahi,Pabna,Santhia,2025-08-23 15:00:00.000000,Rumor
+Wholesaler,Onion,90.5,Kg,Dhaka,Dhaka,Shyambazar,2025-08-24 04:00:00.000000,Rumor
+Retailer,Onion,125.0,Kg,Dhaka,Narayanganj,Sadar,2025-08-24 09:00:00.000000,Verified
+Consumer,Onion,140.0,Kg,Sylhet,Sylhet,Zindabazar,2025-08-25 17:00:00.000000,Verified
+Farmer,Onion,75.0,Kg,Dhaka,Faridpur,Sadar,2025-08-26 14:00:00.000000,Verified
+Wholesaler,Onion,105.0,Kg,Dhaka,Dhaka,Karwan Bazar,2025-08-27 05:00:00.000000,Verified
+Retailer,Onion,145.0,Kg,Chattogram,Chattogram,Sadar,2025-08-27 11:00:00.000000,Rumor
+Consumer,Onion,160.0,Kg,Dhaka,Dhaka,Mirpur,2025-08-28 18:00:00.000000,Verified
+Farmer,Soybean Oil,155.0,Kg,Chattogram,Lakshmipur,Sadar,2025-08-25 11:00:00.000000,Verified
+Wholesaler,Soybean Oil,170.0,Kg,Chattogram,Chattogram,Khatunganj,2025-08-26 06:00:00.000000,Verified
+Retailer,Soybean Oil,185.0,Kg,Dhaka,Dhaka,Sadar,2025-08-26 14:00:00.000000,Under Verification
+Consumer,Soybean Oil,190.0,Kg,Dhaka,Dhaka,Mohammadpur,2025-08-27 19:00:00.000000,Verified
+Farmer,Mango,98.5,Kg,Rajshahi,Chapainawabganj,Sadar,2025-08-10 09:00:00.000000,Verified
+Retailer,Mango,220.0,Kg,Dhaka,Dhaka,Dhanmondi,2025-08-12 16:00:00.000000,Verified
+Farmer,Potato,21.0,Kg,Rangpur,Nilphamari,Sadar,2025-08-15 10:00:00.000000,Verified
+Consumer,Potato,48.0,Kg,Chattogram,Feni,Sadar,2025-08-17 17:30:00.000000,Verified
+Wholesaler,Rice,65.0,Kg,Mymensingh,Mymensingh,Sadar,2025-08-20 07:00:00.000000,Under Verification
+Retailer,Rice,75.0,Kg,Dhaka,Dhaka,Malibagh,2025-08-21 12:30:00.000000,Under Verification
+Farmer,Watermelon,25.0,Kg,Barishal,Patuakhali,Sadar,2025-07-20 13:00:00.000000,Verified
+Retailer,Watermelon,50.0,Kg,Dhaka,Dhaka,Jatrabari,2025-07-21 18:00:00.000000,Verified
+Consumer,Soybean Oil,180.0,Kg,Khulna,Khulna,Sadar,2025-08-29 16:00:00.000000,Verified
+Farmer,Onion,78.0,Kg,Rajshahi,Pabna,Bera,2025-08-29 14:00:00.000000,Verified
+Wholesaler,Onion,110.0,Kg,Dhaka,Dhaka,Shyambazar,2025-08-30 04:00:00.000000,Verified
+Retailer,Onion,155.0,Kg,Chattogram,Chattogram,Sadar,2025-08-30 10:00:00.000000,Verified
+Consumer,Onion,165.0,Kg,Dhaka,Dhaka,Banani,2025-08-31 18:00:00.000000,Verified
+Farmer,Potato,22.0,Kg,Rangpur,Panchagarh,Sadar,2025-09-01 10:00:00.000000,Verified
+Wholesaler,Potato,30.0,Kg,Dhaka,Dhaka,Kawran Bazar,2025-09-02 03:00:00.000000,Under Verification
+Retailer,Potato,45.0,Kg,Dhaka,Gazipur,Sadar,2025-09-02 09:00:00.000000,Verified
+Consumer,Potato,50.0,Kg,Dhaka,Dhaka,Gulshan,2025-09-03 17:00:00.000000,Verified
+Farmer,Rice,58.0,Kg,Mymensingh,Netrokona,Sadar,2025-09-01 11:00:00.000000,Under Verification
+Wholesaler,Rice,66.0,Kg,Dhaka,Dhaka,Badamtoli,2025-09-02 06:00:00.000000,Under Verification
+Retailer,Rice,78.0,Kg,Sylhet,Sylhet,Sadar,2025-09-03 13:00:00.000000,Under Verification
+Farmer,Soybean Oil,158.0,Kg,Chattogram,Noakhali,Sadar,2025-09-04 12:00:00.000000,Verified
+Wholesaler,Soybean Oil,172.0,Kg,Chattogram,Chattogram,Khatunganj,2025-09-05 07:00:00.000000,Verified
+Retailer,Soybean Oil,188.0,Kg,Dhaka,Dhaka,New Market,2025-09-05 15:00:00.000000,Rumor
+Consumer,Soybean Oil,190.0,Kg,Dhaka,Dhaka,Mohakhali,2025-09-06 19:00:00.000000,Verified
+Farmer,Onion,80.0,Kg,Dhaka,Faridpur,Sadar,2025-09-05 14:00:00.000000,Under Verification
+Wholesaler,Onion,115.0,Kg,Dhaka,Dhaka,Shyambazar,2025-09-06 04:00:00.000000,Verified
+Retailer,Onion,160.0,Kg,Chattogram,Chattogram,Sadar,2025-09-06 10:00:00.000000,Verified
+Consumer,Onion,170.0,Kg,Dhaka,Dhaka,Uttara,2025-09-07 18:00:00.000000,Verified
+Consumer,Mango,120.0,Kg,Dhaka,Narayanganj,,2025-09-15 16:59:13.709063,Under Verification
+Consumer,Onion,150.0,Kg,Dhaka,Narayanganj,,2025-09-15 17:01:17.750239,Under Verification
+Consumer,Potato,30.0,Kg,Chattogram,Chattogram,,2025-09-15 17:03:39.846575,Under Verification
