@@ -21,7 +21,7 @@ KrishiSetu is a bilingual (English & Bangla) civic tech web application designed
 ---
 ## 🚀 Live Demo
 
-**[View the Live Demo](YOUR_STREAMLIT_CLOUD_URL_HERE)** *(<- You will replace this after deployment!)*
+**[View the Live Demo]([YOUR_STREAMLIT_CLOUD_URL_HERE](https://krishisetu.streamlit.app/))**
 
 ---
 ## 🛠️ Tech Stack
