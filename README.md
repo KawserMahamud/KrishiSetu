@@ -26,6 +26,7 @@ KrishiSetu is a bilingual (English & Bangla) civic tech web application designed
 ---
 ## 🛠️ Tech Stack
 
+* **AI Assistants:** Grok & Gemini
 * **Framework:** Streamlit
 * **Data Manipulation:** Pandas, NumPy
 * **Data Visualization:** Altair
